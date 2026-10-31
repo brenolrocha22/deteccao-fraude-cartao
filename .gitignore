@@ -1,0 +1,5 @@
+# O dataset é carregado pelo link e não fica no repositório
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
